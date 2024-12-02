@@ -48,7 +48,7 @@ This repository is currently a shadow repository of a [technical skeleton](<tech
 
 ```
 rel-AI-able-modelcheck/main/
-    - benchmarks/                    # Evaluation tools for compliance testing
+    - benchmarks/models                    # Evaluation tools for compliance testing
         - fairness/
             - fairness_benchmark.py  # Fairness evaluation script
             - test_cases.json        # Test cases for fairness assessments
