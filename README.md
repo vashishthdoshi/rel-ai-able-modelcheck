@@ -44,7 +44,7 @@ This framework was inspired by [COMPL-AI.org](https://compl-ai.org), which our u
 
 ## Current State and Future Vision
 
-This repository is currently a shadow repository of a [technical skeleton](<technical skeleton figma>) of our imagined solution. It demonstrates the framework's functionality with the potential for future expansion into a more comprehensive evaluation tool.
+This repository is currently a shadow repository of a [technical skeleton](https://www.figma.com/board/ycLIN9PbiAIPOJN3tg6Ci8/PIL-Prototype-Dump?node-id=0-1&node-type=canvas&t=VxSOic7BbE73AU8R-0) of our imagined solution. It demonstrates the framework's functionality with the potential for future expansion into a more comprehensive evaluation tool.
 
 ```
 rel-AI-able-modelcheck/main/
