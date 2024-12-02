@@ -38,7 +38,7 @@ The use of this evaluation report is for developers to understand which metric t
 
 ## Design Inspiration and Philosophy
 
-This framework was inspired by [COMPL-AI.org](https://compl-ai.org), which our user research identified as an accessible solution for enabling small-scale models to comply with governance standards and regulations. 
+This framework was inspired by [COMPL-AI.org](https://compl-ai.org), which our user research identified as an accessible solution for enabling small-scale models to comply with governance standards and regulations. We consider this as 'derived work' under their licensing.
 
 ---
 
