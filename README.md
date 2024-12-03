@@ -91,4 +91,6 @@ rel-AI-able-modelcheck/main/
 ## Citations
     Guldimann, P., Spiridonov, A., Staab, R., Jovanović, N., Vero, M., Vechev, V., Gueorguieva, A., Balunović, M., Konstantinov, N., Bielik, P., Tsankov, P., & Vechev, M. (2024). COMPL-AI Framework: A Technical Interpretation and LLM Benchmarking Suite for the EU Artificial Intelligence Act. arXiv. https://arxiv.org/abs/2410.07959
         
+    Dong, Y., Mu, R., Zhang, Y., Sun, S., Zhang, T., Wu, C., Jin, G., Qi, Y., Hu, J., Meng, J., Bensalem, S., & Huang, X. (2024). Safeguarding Large Language Models: A Survey. ArXiv (Cornell University). https://doi.org/10.48550/arxiv.2406.02622
+    
     (2024). [GitHub Repository Purpose, Content and Design]. https://docs.google.com/document/d/1rGoSqr3MN4ac5GHFD1ERGHKpxcrk6SoM/edit?usp=sharing&ouid=114720471682987242471&rtpof=true&sd=true
