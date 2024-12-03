@@ -1,0 +1,38 @@
+These are different approaches to benchmark for hallucination mitigation in your model. Technical approaches suggested here are/ will be available in the repo for your to test your model against.
+
+B. Wang, W. Chen, H. Pei, C. Xie, M. Kang, C. Zhang, C. Xu, Z. Xiong,
+R. Dutta, R. Schaeffer, S. T. Truong, S. Arora, M. Mazeika, D. Hendrycks,
+Z. Lin, Y. Cheng, S. Koyejo, D. Song, and B. Li, “DecodingTrust: A
+comprehensive assessment of trustworthiness in GPT models,” arXiv prepr.
+arXiv: 2306,11698, 2024.
+
+X. Wang, H. Wang, and D. Yang, “Measure and improve robustness in NLP
+models: A survey,” arXiv prepr. arXiv:2112,08313v2, 2022.
+
+S. Goyal, S. Doddapaneni, M. M. Khapra, and B. Ravindran, “A survey of
+adversarial defenses and robustness in NLP,” Acm Comput. Surv., vol. 55, no.
+14s, Jul. 2023.
+
+W. Ye, M. Ou, T. Li, Y. chen, X. Ma, Y. Yanggong, S. Wu, J. Fu, G. Chen,
+H. Wang, and J. Zhao, “Assessing hidden risks of LLMs: An empirical study
+on robustness, consistency, and credibility,” arXiv prepr. arXiv:2305,10235v4,
+2023.
+
+P. Liang, R. Bommasani, T. Lee, D. Tsipras, D. Soylu, M. Yasunaga, Y. Zhang,
+D. Narayanan, Y. Wu, A. Kumar, B. Newman, B. Yuan, B. Yan, C. Zhang,
+C. Cosgrove, C. D. Manning, C. Ré, D. Acosta-Navas, D. A. Hudson,
+E. Zelikman, E. Durmus, F. Ladhak, F. Rong, H. Ren, H. Yao, J. Wang,
+K. Santhanam, L. Orr, L. Zheng, M. Yuksekgonul, M. Suzgun, N. Kim,
+N. Guha, N. Chatterji, O. Khattab, P. Henderson, Q. Huang, R. Chi, S. M.
+Xie, S. Santurkar, S. Ganguli, T. Hashimoto, T. Icard, T. Zhang, V. Chaudhary,
+W. Wang, X. Li, Y. Mai, Y. Zhang, and Y. Koreeda, “Holistic evaluation of
+language models,” arXiv prepr. arXiv:2211,09110v2, 2023.
+
+K. Zhu, J. Wang, J. Zhou, Z. Wang, H. Chen, Y. Wang, L. Yang, W. Ye,
+Y. Zhang, N. Z. Gong, and X. Xie, “PromptBench: Towards evaluating the
+robustness of large language models on adversarial prompts,” arXiv prepr.
+arXiv:2306,04528v4, 2023.
+
+A. Liu, L. Pan, X. Hu, S. Meng, and L. Wen, “A semantic invariant robust
+watermark for large language models,” in 12th Int. Conf. Learn. Represent.
+(ICLR 2024), 2024.
