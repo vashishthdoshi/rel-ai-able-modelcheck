@@ -20,7 +20,7 @@ This project was created by Heinz College students at Carnegie Mellon University
 
 ## Larger Interface
 
-This GitHub repository is part of a larger interface available [here](<figma>). The general purpose of the interface is to tie together the knowledge base in AI Risk Mitigation, the regulations and frameworks already in place for AI in the US like `<framework 01>`, `<framework 02>`, `<framework 03>`, and mapping technical benchmarks to those regulations. The interface allows developers to:
+This GitHub repository is part of a larger interface available [here](https://www.figma.com/design/RscbuGdIkKUeYIRttQDe3y/PIL-Prototype-Design-(FINAL)?node-id=19-2&node-type=frame&t=UQGstsrZyB9uHryP-0). The general purpose of the interface is to tie together the knowledge base in AI Risk Mitigation, the regulations and frameworks already in place for AI in the US like `<framework 01>`, `<framework 02>`, `<framework 03>`, and mapping technical benchmarks to those regulations. The interface allows developers to:
 
 - Test AI solutions locally during development.
 - Access a guidebook for AI Red-Teaming and risk mitigation for whatever stage of the AI lifecycle your product may be in.
