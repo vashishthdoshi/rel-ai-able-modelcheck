@@ -48,11 +48,15 @@ This repository is currently a shadow repository of a [technical skeleton](https
 
 ```
 rel-AI-able-modelcheck/main/
-    - benchmarks/models                    # Evaluation tools for compliance testing
-        - fairness/
-            - fairness_benchmark.py  # Fairness evaluation script
-            - test_cases.json        # Test cases for fairness assessments
+    - benchmarks/models              # Evaluation tools for compliance testing
+        - hallucination/
+            - academic_base.txt      # Annotated bibliography of academic papers that the benchmark tests and data have been built on
+            - benchmark_dataset      # Test cases for hallucination assessments
+            - test_01.py             # Test comparing input model to standard model
+            - test_02.py             # Test comparing input model to standard model
         - robustness/
+            - academic_base.txt      # Annotated bibliography of academic papers that the benchmark tests and data have been built on
+            - benchmark_dataset      # Test cases for robustness assessments
             - adversarial_tests.py   # Scripts for adversarial robustness
             - perturbation_metrics.py
         - privacy/
