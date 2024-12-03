@@ -1,3 +1,5 @@
+These are different approaches to benchmark for hallucination mitigation in your model. Technical approaches suggested here are/ will be available in the repo for your to test your model against.
+
 M. Webster and J. Schmitt, “LLM hallucinations: How to detect and prevent
 them with CI,” CircleCI Blog, Jan. 2024.
 
