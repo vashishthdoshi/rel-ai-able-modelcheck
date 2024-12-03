@@ -1,0 +1,43 @@
+M. Webster and J. Schmitt, “LLM hallucinations: How to detect and prevent
+them with CI,” CircleCI Blog, Jan. 2024.
+
+Q. Cheng, T. Sun, W. Zhang, S. Wang, X. Liu, M. Zhang, J. He, M. Huang,
+Z. Yin, K. Chen et al., “Evaluating hallucinations in chinese large language
+models,” arXiv prepr. arXiv:2310,03368, 2023.
+
+S. K. Jha, S. Jha, P. Lincoln, N. D. Bastian, A. Velasquez, R. Ewetz,
+and S. Neema, “Counterexample guided inductive synthesis using large
+language models and satisfiability solving,” in 2023 IEEE Mil. Commun. Conf.
+(MILCOM 2023). IEEE, 2023, pp. 944–949.
+
+S. Min, K. Krishna, X. Lyu, M. Lewis, W.-t. Yih, P. W. Koh, M. Iyyer,
+L. Zettlemoyer, and H. Hajishirzi, “Factscore: Fine-grained atomic evaluation of factual precision in long form text generation,” arXiv prepr.
+arXiv:2305,14251, 2023.
+
+I. Chern, S. Chern, S. Chen, W. Yuan, K. Feng, C. Zhou, J. He, G. Neubig,
+P. Liu et al., “FacTool: Factuality detection in generative AI–A tool augmented framework for multi-task and multi-domain scenarios,” arXiv prepr.
+arXiv:2307,13528, 2023.
+
+F. Nan, R. Nallapati, Z. Wang, C. N. dos Santos, H. Zhu, D. Zhang,
+K. McKeown, and B. Xiang, “Entity-level factual consistency of abstractive
+text summarization,” arXiv prepr. arXiv:2102,09130, 2021.
+
+B. Goodrich, V. Rao, P. J. Liu, and M. Saleh, “Assessing the factual accuracy
+of generated text,” in Proc. 25th ACM SIGKDD Int. Conf. Knowl. Discov.
+Data Min., 2019, pp. 166–175.
+
+K. Shuster, S. Poff, M. Chen, D. Kiela, and J. Weston, “Retrieval augmentation reduces hallucination in conversation,” arXiv prepr. arXiv:2104,07567,
+2021.
+
+A. Mishra, D. Patel, A. Vijayakumar, X. L. Li, P. Kapanipathi, and K. Talamadupula, “Looking beyond sentence-level natural language inference for
+question answering and text summarization,” in Proc. 2021 Conf. n. Am.
+Chapter Assoc. Comput. Linguist.: Hum. Lang. Technol., 2021, pp. 1322–
+1336.
+
+Barrantes, B. Herudek, and R. Wang, “Adversarial nli for factual correctness in text summarisation models,” arXiv prepr. arXiv:2005,11739, 2020.
+
+Z. Luo, Q. Xie, and S. Ananiadou, “Chatgpt as a factual inconsistency
+evaluator for abstractive text summarization,” arXiv prepr. arXiv:2303,15621,
+2023.
+
+M. Gao, J. Ruan, R. Sun, X. Yin, S. Yang, and X. Wan, “Human-like summarization evaluation with chatgpt,” arXiv prepr. arXiv:2304,02554, 2023.
